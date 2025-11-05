@@ -1,0 +1,14 @@
+{
+  "name": "claimable-dep-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Safe demo repo for dependency confusion / claimable package testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "@example-business/utils": "1.0.0"
+  }
+}
