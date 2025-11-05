@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "dayjs": "^1.11.11",
-    "example-business-utils": "1.0.0"
+    "non-existing-packagexx": "1.0.0"
   }
 }
